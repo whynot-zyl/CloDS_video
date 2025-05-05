@@ -1,5 +1,5 @@
 # Cloth Dynamics Splatting: Learning Cloth Dynamics From Videos
-## 1 Visualization of the learned dynamics (shown as videos)
+## 1. Visualization of the learned dynamics (shown as videos)
 <table>
   <tr>
     <td align="center">
