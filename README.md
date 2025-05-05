@@ -26,20 +26,21 @@
 <table>
   <tr>
     <td align="center">
-      <img src="video_show/MAU.gif" width="400"><br>
-      <strong>IncepU</strong>
+      <img src="video_show/gSTA.gif" width="400"><br>
+      <strong>SimVP (gSTA)</strong>
+    </td>
+    <td align="center">
+      <img src="video_show/IncepU.gif" width="400"><br>
+      <strong>SimVP (IncepU)</strong>
     </td>
   </tr>
 </table>
 <table>
   <tr>
     <td align="center">
-      <img src="video_show/gSTA.gif" width="400"><br>
-      <strong>GT</strong>
-    </td>
-    <td align="center">
-      <img src="video_show/IncepU.gif" width="400"><br>
-      <strong>CloDS (ours)</strong>
+      <img src="video_show/MAU.gif" width="400"><br>
+      <strong>MAU</strong>
     </td>
   </tr>
 </table>
+
