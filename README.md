@@ -102,15 +102,15 @@
 <table>
   <tr>
     <td align="center">
-      <img src="real/real.gif" width="400"><br>
+      <img src="real_loop/real.gif" width="400"><br>
       <strong> GT </strong>
     </td>
     <td align="center">
-      <img src="real/GT.gif" width="400"><br>
+      <img src="real_loop/GT.gif" width="400"><br>
       <strong>CloDS (ours)</strong>
     </td>
       <td align="center">
-      <img src="real/CloDS.gif" width="400"><br>
+      <img src="real_loop/CloDS.gif" width="400"><br>
       <strong>CloDS (ours)</strong>
     </td>
   </tr>
