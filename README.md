@@ -64,8 +64,38 @@
       <strong> GaMes (w/o $\mu^W$)</strong>
     </td>
     <td align="center">
-      <img src="SMGS//wo_mesh.gif" width="400"><br>
+      <img src="SMGS/wo_mesh.gif" width="400"><br>
       <strong>w/o mesh (w/o $\mu^M$)</strong>
     </td>
   </tr>
 </table>
+
+## 3. Generalization to Shape
+<table>
+  <tr>
+    <td align="center">
+      <img src="new_shape/GT.gif" width="400"><br>
+      <strong> GT (w/o $\mu^W$)</strong>
+    </td>
+    <td align="center">
+      <img src="new_shape/CloDS.gif" width="400"><br>
+      <strong>CloDS (ours)</strong>
+    </td>
+  </tr>
+</table>
+
+## 4. Generalization Texture 
+<table>
+  <tr>
+    <td align="center">
+      <img src="new_color/GT.gif" width="400"><br>
+      <strong> GT (w/o $\mu^W$)</strong>
+    </td>
+    <td align="center">
+      <img src="new_color/CloDS.gif" width="400"><br>
+      <strong>CloDS (ours)</strong>
+    </td>
+  </tr>
+</table>
+
+## 5. Real-world Experiments
