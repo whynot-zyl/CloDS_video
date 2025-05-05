@@ -1,5 +1,5 @@
 # Cloth Dynamics Splatting: Learning Cloth Dynamics From Videos
-## 1. Visualization of the learned dynamics (shown as videos)
+## 1. Visualization of the learned dynamics
 <table>
   <tr>
     <td align="center">
@@ -44,3 +44,28 @@
   </tr>
 </table>
 
+## 2. Visualization of the ablation studies in SMGS
+<table>
+  <tr>
+    <td align="center">
+      <img src="SMGS/GT.gif" width="400"><br>
+      <strong>GT</strong>
+    </td>
+    <td align="center">
+      <img src="SMGS/CloDS.gif" width="400"><br>
+      <strong>CloDS (ours)</strong>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="SMGSwo_world.gif" width="400"><br>
+      <strong> GaMes (w/o $\mu^W$)</strong>
+    </td>
+    <td align="center">
+      <img src="SMGS//wo_mesh.gif" width="400"><br>
+      <strong>w/o mesh (w/o $\mu^M$)</strong>
+    </td>
+  </tr>
+</table>
