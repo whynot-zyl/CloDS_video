@@ -1,4 +1,4 @@
-# Cloth Dynamics Splatting: Learning Cloth Dynamics From Videos
+# CloDS: Unsupervised Cloth Dynamics Simulation with multi-view Videos
 ## 1. Visualization of the learned dynamics
 <table>
   <tr>
