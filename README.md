@@ -75,7 +75,7 @@
   <tr>
     <td align="center">
       <img src="new_shape/GT.gif" width="400"><br>
-      <strong> GT (w/o $\mu^W$)</strong>
+      <strong> GT </strong>
     </td>
     <td align="center">
       <img src="new_shape/CloDS.gif" width="400"><br>
@@ -89,7 +89,7 @@
   <tr>
     <td align="center">
       <img src="new_color/GT.gif" width="400"><br>
-      <strong> GT (w/o $\mu^W$)</strong>
+      <strong> GT </strong>
     </td>
     <td align="center">
       <img src="new_color/CloDS.gif" width="400"><br>
@@ -99,3 +99,19 @@
 </table>
 
 ## 5. Real-world Experiments
+<table>
+  <tr>
+    <td align="center">
+      <img src="real/real.gif" width="400"><br>
+      <strong> GT </strong>
+    </td>
+    <td align="center">
+      <img src="real/GT.gif" width="400"><br>
+      <strong>CloDS (ours)</strong>
+    </td>
+      <td align="center">
+      <img src="real/CloDS.gif" width="400"><br>
+      <strong>CloDS (ours)</strong>
+    </td>
+  </tr>
+</table>
