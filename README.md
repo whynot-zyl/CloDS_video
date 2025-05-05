@@ -60,7 +60,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="SMGSwo_world.gif" width="400"><br>
+      <img src="SMGS/wo_world.gif" width="400"><br>
       <strong> GaMes (w/o $\mu^W$)</strong>
     </td>
     <td align="center">
