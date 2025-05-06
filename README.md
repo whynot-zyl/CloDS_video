@@ -115,6 +115,7 @@
     </td>
   </tr>
 </table>
+
 ## 6 The result of sora
 <table>
   <tr>
