@@ -115,3 +115,16 @@
     </td>
   </tr>
 </table>
+## 6 The result of sora
+<table>
+  <tr>
+    <td align="center">
+      <img src="sora/sora.gif" width="400"><br>
+      <strong>The result of sora. Prompt: 'A flag fluttering in the wind'.</strong>
+    </td>
+    <td align="center">
+      <img src="video_show/CloDS.gif" width="400"><br>
+      <strong>CloDS (ours)</strong>
+    </td>
+  </tr>
+</table>
