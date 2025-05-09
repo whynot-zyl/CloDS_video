@@ -20,7 +20,7 @@
     </td>
     <td align="center">
       <img src="video_show/MMVP.gif" width="400"><br>
-      <strong>SimVP</strong>
+      <strong>MMVP</strong>
   </tr>
 </table>
 <table>
