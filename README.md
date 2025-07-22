@@ -107,7 +107,7 @@
     </td>
     <td align="center">
       <img src="real_loop/GT.gif" width="400"><br>
-      <strong>CloDS (ours)</strong>
+      <strong>GT (SAM)</strong>
     </td>
       <td align="center">
       <img src="real_loop/CloDS.gif" width="400"><br>
