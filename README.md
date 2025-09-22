@@ -129,7 +129,7 @@
     </td>
     <td align="center">
       <img src="mesh/CloDS.gif" width="400"><br>
-      <strong>CloDS (ours).</strong>
+      <strong>CloDS (ours)</strong>
     </td>
   </tr>
 </table>
