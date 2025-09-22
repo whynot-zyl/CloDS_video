@@ -116,7 +116,25 @@
   </tr>
 </table>
 
-## 6 The result of sora
+## 6 Performance under Lighting Conditions
+<table>
+  <tr>
+    <td align="center">
+      <img src="mesh/GT_image.gif" width="400"><br>
+      <strong>Reference (Rended)</strong>
+    </td>
+    <td align="center">
+      <img src="mesh/GT_mesh.gif" width="400"><br>
+      <strong>Reference (Mesh)</strong>
+    </td>
+    <td align="center">
+      <img src="mesh/CloDS.gif" width="400"><br>
+      <strong>CloDS (ours).</strong>
+    </td>
+  </tr>
+</table>
+
+## 7 The result of sora
 <table>
   <tr>
     <td align="center">
