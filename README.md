@@ -1,4 +1,4 @@
-# CloDS: Unsupervised Cloth Dynamics Simulation with multi-view Videos
+# CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions
 ## 1. Visualization of the learned dynamics
 <table>
   <tr>
