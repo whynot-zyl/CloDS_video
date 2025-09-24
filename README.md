@@ -116,7 +116,7 @@
   </tr>
 </table>
 
-## 6 Performance under Lighting Conditions
+## 6. Performance under Lighting Conditions
 <table>
   <tr>
     <td align="center">
@@ -134,7 +134,7 @@
   </tr>
 </table>
 
-## 7 The result of sora
+## 7. The result of sora
 <table>
   <tr>
     <td align="center">
