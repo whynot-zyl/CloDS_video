@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <img src="video_show/GT.gif" width="400"><br>
-      <strong>GT</strong>
+      <strong>Ground Truth</strong>
     </td>
     <td align="center">
       <img src="video_show/CloDS.gif" width="400"><br>
@@ -16,7 +16,7 @@
   <tr>
     <td align="center">
       <img src="video_show/GT_mesh.gif" width="400"><br>
-      <strong>GT Mesh</strong>
+      <strong>Ground Truth Mesh</strong>
     </td>
     <td align="center">
       <img src="video_show/CloDS_mesh.gif" width="400"><br>
@@ -61,7 +61,7 @@
   <tr>
     <td align="center">
       <img src="SMGS/GT.gif" width="400"><br>
-      <strong>GT</strong>
+      <strong>Ground Truth</strong>
     </td>
     <td align="center">
       <img src="SMGS/CloDS.gif" width="400"><br>
@@ -87,7 +87,7 @@
   <tr>
     <td align="center">
       <img src="new_shape/GT.gif" width="400"><br>
-      <strong> GT </strong>
+      <strong> Ground Truth </strong>
     </td>
     <td align="center">
       <img src="new_shape/CloDS.gif" width="400"><br>
@@ -101,7 +101,7 @@
   <tr>
     <td align="center">
       <img src="new_color/GT.gif" width="400"><br>
-      <strong> GT </strong>
+      <strong> Ground Truth </strong>
     </td>
     <td align="center">
       <img src="new_color/CloDS.gif" width="400"><br>
@@ -115,11 +115,11 @@
   <tr>
     <td align="center">
       <img src="real_loop/real.gif" width="400"><br>
-      <strong> GT </strong>
+      <strong> Ground Truth </strong>
     </td>
     <td align="center">
       <img src="real_loop/GT.gif" width="400"><br>
-      <strong>GT (SAM)</strong>
+      <strong>Ground Truth (SAM)</strong>
     </td>
       <td align="center">
       <img src="real_loop/CloDS.gif" width="400"><br>
