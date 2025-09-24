@@ -15,6 +15,18 @@
 <table>
   <tr>
     <td align="center">
+      <img src="video_show/GT_mesh.gif" width="400"><br>
+      <strong>GT Mesh</strong>
+    </td>
+    <td align="center">
+      <img src="video_show/CloDS_mesh.gif" width="400"><br>
+      <strong>CloDS Mesh (ours)</strong>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
       <img src="video_show/TAU.gif" width="400"><br>
       <strong>TAU</strong>
     </td>
