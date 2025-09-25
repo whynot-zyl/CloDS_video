@@ -1,5 +1,5 @@
 # CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions
-## 1. Visualization of the learned dynamics
+## 1. Visualization of the learned dynamics (Visuallization of Figure 5)
 <table>
   <tr>
     <td align="center">
@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-## 2. Visualization of the ablation studies in SMGS
+## 2. Visualization of the ablation studies in SMGS (Visualization of Figure 3)
 <table>
   <tr>
     <td align="center">
@@ -82,7 +82,7 @@
   </tr>
 </table>
 
-## 3. Generalization to Shape
+## 3. Generalization to Shape (Visualization of Figure 6a)
 <table>
   <tr>
     <td align="center">
@@ -96,7 +96,7 @@
   </tr>
 </table>
 
-## 4. Generalization Texture 
+## 4. Generalization Texture (Visualization of Figure 6b)
 <table>
   <tr>
     <td align="center">
@@ -110,7 +110,7 @@
   </tr>
 </table>
 
-## 5. Real-world Experiments
+## 5. Real-world Experiments (Visualization of Figure 6c)
 <table>
   <tr>
     <td align="center">
@@ -128,7 +128,7 @@
   </tr>
 </table>
 
-## 6. Performance under Lighting Conditions
+## 6. Performance under Lighting Conditions (Visualization of Figure S.3 in Appendix H.5)
 <table>
   <tr>
     <td align="center">
@@ -146,7 +146,7 @@
   </tr>
 </table>
 
-## 7. The result of sora
+## 7. The result of sora (Visualization of Appendix H.8)
 <table>
   <tr>
     <td align="center">
