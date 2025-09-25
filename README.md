@@ -65,7 +65,7 @@
     </td>
     <td align="center">
       <img src="SMGS/CloDS.gif" width="400"><br>
-      <strong>CloDS (ours)</strong>
+      <strong>SMGS (ours)</strong>
     </td>
   </tr>
 </table>
