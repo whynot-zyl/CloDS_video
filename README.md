@@ -165,11 +165,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="image/aware3d/GT_video_26.gif" width="400"><br>
+      <img src="aware3d/GT_video_26.gif" width="400"><br>
       <strong>Ground Truth</strong>
     </td>
     <td align="center">
-      <img src="image/aware3d/node_video_26.gif" width="400"><br>
+      <img src="aware3d/node_video_26.gif" width="400"><br>
       <strong>CloDS (ours)</strong>
     </td>
   </tr>
@@ -178,11 +178,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="image/aware3d/node_video_cs_26.gif" width="400"><br>
+      <img src="aware3d/node_video_cs_26.gif" width="400"><br>
       <strong>CS</strong>
     </td>
     <td align="center">
-      <img src="image/aware3d/node_video_lip_26.gif" width="400"><br>
+      <img src="aware3d/node_video_lip_26.gif" width="400"><br>
       <strong>LIP</strong>
     </td>
   </tr>
@@ -193,11 +193,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="image/collision/gt.gif" width="400"><br>
+      <img src="collision/gt.gif" width="400"><br>
       <strong>Ground Truth</strong>
     </td>
     <td align="center">
-      <img src="image/collision/pre.gif" width="400"><br>
+      <img src="collision/pre.gif" width="400"><br>
       <strong>CloDS (ours)</strong>
     </td>
   </tr>
@@ -209,11 +209,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="image//pants/gt.gif" width="400"><br>
+      <img src="/pants/gt.gif" width="400"><br>
       <strong>Ground Truth</strong>
     </td>
     <td align="center">
-      <img src="image//pants/pre.gif" width="400"><br>
+      <img src="/pants/pre.gif" width="400"><br>
       <strong>CloDS (ours)</strong>
     </td>
   </tr>
@@ -223,11 +223,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="image//dress/gt.gif" width="400"><br>
+      <img src="/dress/gt.gif" width="400"><br>
       <strong>Ground Truth</strong>
     </td>
     <td align="center">
-      <img src="image//dress/pre.gif" width="400"><br>
+      <img src="/dress/pre.gif" width="400"><br>
       <strong>CloDS (ours)</strong>
     </td>
   </tr>
@@ -237,11 +237,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="image/noise/GT_video_26.gif" width="400"><br>
+      <img src="noise/GT_video_26.gif" width="400"><br>
       <strong>Ground Truth</strong>
     </td>
     <td align="center">
-      <img src="image/noise/pre_video_26.gif" width="400"><br>
+      <img src="noise/pre_video_26.gif" width="400"><br>
       <strong>CloDS (ours)</strong>
     </td>
   </tr>
@@ -250,11 +250,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="image/noise/gaussian_noise.gif" width="400"><br>
+      <img src="noise/gaussian_noise.gif" width="400"><br>
       <strong>Gaussian noise</strong>
     </td>
     <td align="center">
-      <img src="image/noise/trans_noise.gif" width="400"><br>
+      <img src="noise/trans_noise.gif" width="400"><br>
       <strong>Translation noise</strong>
     </td>
   </tr>
@@ -262,7 +262,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="image/noise/scale_noise.gif" width="400"><br>
+      <img src="noise/scale_noise.gif" width="400"><br>
       <strong>Scaling noise</strong>
     </td>
   </tr>
@@ -273,11 +273,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="image/extraction/GT_video_32.gif" width="400"><br>
+      <img src="extraction/GT_video_32.gif" width="400"><br>
       <strong>Ground Truth Mesh</strong>
     </td>
     <td align="center">
-      <img src="image/extraction/Extracted_CloDS_video_32 .gif" width="400"><br>
+      <img src="extraction/Extracted_CloDS_video_32 .gif" width="400"><br>
       <strong>Extracted Mesh (CloDS)</strong>
     </td>
   </tr>
@@ -286,11 +286,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="image/extraction/Pre_CloDS_video_32.gif" width="400"><br>
+      <img src="extraction/Pre_CloDS_video_32.gif" width="400"><br>
       <strong>Predicted Mesh (CloDS)</strong>
     </td>
     <td align="center">
-      <img src="image/extraction/Extracted_wo_video_32.gif" width="400"><br>
+      <img src="extraction/Extracted_wo_video_32.gif" width="400"><br>
       <strong>Extracted Mesh (w/o $\mathcal{L}_{edge}$)</strong>
     </td>
   </tr>
