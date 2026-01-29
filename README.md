@@ -161,7 +161,7 @@
 </table>
 
 
-## 8. Visualization of geometry-aware approaches. (Figure 9a, Reviewer FVhY)
+## 8. Visualization of geometry-aware approaches. (Figure 9a)
 <table>
   <tr>
     <td align="center">
@@ -188,7 +188,7 @@
   </tr>
 </table>
 
-## 9. Visualization of object-cloth collision. (Figure 9b, Reviewer bT4z)
+## 9. Visualization of object-cloth collision. (Figure 9b)
 
 <table>
   <tr>
@@ -204,7 +204,7 @@
 </table>
 
 
-## 10. Visualization of Real-world garmen. (Figure 9c, Reviewer kW74 and FVhY)
+## 10. Visualization of Real-world garmen. (Figure 9c)
 ### 10.1 Pants
 <table>
   <tr>
@@ -233,7 +233,7 @@
   </tr>
 </table>
 
-## 11. Visualization of CDR under different noise conditions. (Figure S.2 in Appendix E, Reviewer FVhY)
+## 11. Visualization of CDR under different noise conditions. (Figure S.2 in Appendix E)
 <table>
   <tr>
     <td align="center">
@@ -268,7 +268,7 @@
   </tr>
 </table>
 
-## 12. Visualization of Extracted mesh. (Figure S.5 in Appendix H.4, Reviewer FVhY)
+## 12. Visualization of Extracted mesh. (Figure S.5 in Appendix H.4)
 
 <table>
   <tr>
