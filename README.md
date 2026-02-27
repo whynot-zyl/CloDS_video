@@ -82,7 +82,7 @@
   </tr>
 </table>
 
-## 3. Generalization to Shape (Visualization of Figure 6a)
+## 3. Generalization to Shape (Visualization of Figure 7a)
 <table>
   <tr>
     <td align="center">
@@ -96,7 +96,7 @@
   </tr>
 </table>
 
-## 4. Generalization Texture (Visualization of Figure 6b)
+## 4. Generalization Texture (Visualization of Figure 7b)
 <table>
   <tr>
     <td align="center">
@@ -110,7 +110,7 @@
   </tr>
 </table>
 
-## 5. Real-world Experiments (Visualization of Figure 6c)
+## 5. Real-world Experiments (Visualization of Figure 7c)
 <table>
   <tr>
     <td align="center">
