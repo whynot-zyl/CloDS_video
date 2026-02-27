@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-## 2. Visualization of the ablation studies in SMGS (Visualization of Figure 3)
+## 2. Visualization of the ablation studies in SMGS (Visualization of Figure 4)
 <table>
   <tr>
     <td align="center">
