@@ -1,5 +1,5 @@
 # CloDS: Visual-Only Unsupervised Cloth Dynamics Learning in Unknown Conditions
-## 1. Visualization of the learned dynamics (Visuallization of Figure 5)
+## 1. Visualization of the learned dynamics (Visuallization of Figure 6)
 <table>
   <tr>
     <td align="center">
